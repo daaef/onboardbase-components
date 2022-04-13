@@ -1,3 +1,3 @@
 /* eslint-disable import/prefer-default-export */
 export { default as CustomDropdown }
-from './custom-dropdown.vue';
+from './src/lib-components/custom-dropdown.vue';
